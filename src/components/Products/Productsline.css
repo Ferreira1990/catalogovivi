@@ -1,0 +1,66 @@
+.ContainerProducts{
+    display: flex; 
+    flex-direction: column;
+    align-items: center;
+}
+
+.ContainerProducts h1{
+    font-family: "Noto Serif Display", serif;
+    font-size: 60px;
+    margin-top: 20px;
+    text-align: center;
+
+}
+
+.ContainerProducts h2{
+    font-size: 30px;
+    text-align: center;
+    margin-top: 50px;
+margin-bottom: 0;}
+
+.Containercards{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    height: 100%;
+    margin:60px 0;
+    flex-wrap: wrap;
+}
+
+.Cardproduct{
+    height: 500px;
+    border: solid 1px gray;
+    width: 300px;
+    border-radius: 10px;
+    margin: 5px 30px;
+
+
+}
+.Cardimg{
+    display: flex;
+    justify-content: center;
+}
+.Cardimg img{
+    width: 100%;
+    border-radius: 10px;
+    margin: 0 0 10px 0;
+       
+}
+
+/* INFORMACION DE LA CARD */
+.Cardinfo{
+    text-align: center;
+    margin: 5px;
+}
+
+/* PRECIO DE LA CARD */
+
+.Cardprice{
+    display: flex;
+    justify-content: center;
+    
+}
+.Cardprice p{
+    text-align: center;  
+  
+}

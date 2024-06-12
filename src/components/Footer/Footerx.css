@@ -1,0 +1,26 @@
+.Containerfooter{
+    height: 300px;
+    background-color: black;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.Infofooter{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+}
+
+.iconinstag{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    width: 25px;
+    color: white!important;
+    height: 100%;
+    font-size: 60px;
+    cursor: pointer;
+   }

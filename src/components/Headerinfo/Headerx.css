@@ -1,0 +1,29 @@
+.Containerehaderinfo{
+    width: 100%;
+    height: 500px;
+    background-image: url(../../assets/bg.jpg);
+    background-position: center;
+    background-size: cover;
+    font-family: "Noto Serif Display", serif;
+}
+
+.Namebrand{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100%;
+}
+
+.Namebrand h1{
+    font-size: 90px;
+    color: white;
+    text-align: center;  
+    margin-bottom: 0;
+}
+
+.Namebrand p{
+    color: white;
+    font-weight: bold;
+ 
+}
