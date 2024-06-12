@@ -28,6 +28,18 @@
     font-size: 50px;  
 }
 
+@media (max-width:600px){
+    .Namebrand h1{
+        font-size: 60px;
+   
+       
+    }
+    
+    .Namebrand h2{
+     font-size: 30px;
+    }
+}
+
 .Namebrand p{
     color: white;
     font-weight: bold;
