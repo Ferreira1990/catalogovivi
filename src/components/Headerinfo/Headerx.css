@@ -16,10 +16,16 @@
 }
 
 .Namebrand h1{
-    font-size: 90px;
-    color: white;
+    font-size: 100px;
+    color: rgb(0, 0, 0);
     text-align: center;  
     margin-bottom: 0;
+   
+}
+
+.Namebrand h2{
+    color: white;
+    font-size: 50px;  
 }
 
 .Namebrand p{
