@@ -37,9 +37,17 @@ font-family: "Noto Serif Display", serif;
     width: 300px;
     border-radius: 10px;
     margin: 5px 30px;
+}
 
+@media (max-width:600px){
+    .Cardproduct{  
+        margin: 5px 0; 
+    }
+    
 
 }
+
+
 .Cardimg{
     display: flex;
     justify-content: center;
@@ -47,8 +55,7 @@ font-family: "Noto Serif Display", serif;
 .Cardimg img{
     width: 100%;
     border-radius: 10px;
-    margin: 0 0 10px 0;
-       
+    margin: 0 0 10px 0;       
 }
 
 /* INFORMACION DE LA CARD */

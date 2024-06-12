@@ -72,7 +72,7 @@ const Productsline = () => {
 
         {/* --------------------------------------------------------------------------------------------------------------------------------- */}
 
-        <div data-aos="zoom-out" data-aos-duration="1000" className='Containercards'>
+        <div className='Containercards'>
             <div className='Cardproduct'>
                 <div className='Cardimg'>
                     <img src={cuatro} alt="" />
