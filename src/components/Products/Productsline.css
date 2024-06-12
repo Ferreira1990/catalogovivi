@@ -16,7 +16,11 @@
     font-size: 30px;
     text-align: center;
     margin-top: 50px;
-margin-bottom: 0;}
+margin-bottom: 0;
+font-family: "Noto Serif Display", serif;
+
+}
+
 
 .Containercards{
     width: 100%;

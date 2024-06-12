@@ -18,8 +18,8 @@ const Productsline = () => {
   return (
     <>
     <div className='ContainerProducts'>
-        <h1 data-aos="fade-left" data-aos-duration="3000">Catalogo 2024</h1>
-        <h2 data-aos="fade-right" data-aos-duration="3000">Jabones 100% naturales</h2>
+        <h1 data-aos="fade-up" data-aos-duration="3000">Catalogo 2024</h1>
+        <h2 data-aos="fade-down" data-aos-duration="3000">Jabones 100% naturales</h2>
 
         <div data-aos="zoom-in" data-aos-duration="1000" className='Containercards'>
             <div className='Cardproduct'>
@@ -121,7 +121,7 @@ const Productsline = () => {
                 </div>
         </div>
 
-        <h2 data-aos="fade-left" data-aos-duration="2000">Sales de baño</h2>
+        <h2 data-aos="zoom-out" data-aos-duration="2000">Sales de baño</h2>
 
         <div data-aos="zoom-in" data-aos-duration="1000" className='Containercards'>
             <div className='Cardproduct'>
