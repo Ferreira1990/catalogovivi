@@ -15,8 +15,8 @@
 .ContainerProducts h2{
     font-size: 30px;
     text-align: center;
-    margin-top: 50px;
-margin-bottom: 0;
+    margin-top: 50px;    
+margin-bottom: 35px;
 font-family: "Noto Serif Display", serif;
 
 }
@@ -27,21 +27,31 @@ font-family: "Noto Serif Display", serif;
     display: flex;
     justify-content: center;
     height: 100%;
-    margin:60px 0;
+    margin:0;
     flex-wrap: wrap;
 }
 
 .Cardproduct{
-    height: 500px;
+    height: 380px;
     border: solid 1px gray;
-    width: 300px;
+    width: 250px;
     border-radius: 10px;
     margin: 5px 30px;
+
 }
 
 @media (max-width:600px){
     .Cardproduct{  
         margin: 5px 0; 
+    }
+
+    .ContainerProducts h1{
+        font-size: 40px;
+    }
+
+    .ContainerProducts h2{
+        font-size: 25px;
+     
     }
     
 
@@ -51,7 +61,10 @@ font-family: "Noto Serif Display", serif;
 .Cardimg{
     display: flex;
     justify-content: center;
+    height: 60%;
 }
+
+
 .Cardimg img{
     width: 100%;
     border-radius: 10px;
@@ -62,16 +75,22 @@ font-family: "Noto Serif Display", serif;
 .Cardinfo{
     text-align: center;
     margin: 5px;
+    height: 20%;
 }
 
 /* PRECIO DE LA CARD */
 
 .Cardprice{
     display: flex;
-    justify-content: center;
-    
+    flex-direction: column;
+    justify-content: end;
+    align-items: center;
+    height: 20%;    
 }
 .Cardprice p{
     text-align: center;  
   
+}
+.Cardprice h1{
+    font-size: 35px;
 }
