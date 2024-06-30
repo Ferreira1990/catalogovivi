@@ -12,12 +12,14 @@ import sal from '../../assets/sal1.jpg'
 import sal2 from '../../assets/sal2.jpg'
 import sal3 from '../../assets/sal3.jpg'
 
+import Pastadental from '../../assets/pasta.jpg'
+
 
 
 const Productsline = () => {
   return (
     <>
-    <div className='ContainerProducts'>
+    <div id='Productos' className='ContainerProducts'>
         <h1 data-aos="fade-up" data-aos-duration="3000">Catalogo 2024</h1>
         <h2 data-aos="fade-down" data-aos-duration="3000">Jabones 100% naturales</h2>
 
@@ -172,6 +174,31 @@ const Productsline = () => {
 
                 </div>
         </div>
+
+        {/* ----------------------------------------------------------------------------------------------------------------- */}
+
+        <h2 data-aos="zoom-out" data-aos-duration="2000">Pasta dental</h2>
+
+        <div data-aos="zoom-in" data-aos-duration="1000" className='Containercards'>
+
+        <div className='Cardproduct'>
+                <div className='Cardimg'>
+                    <img src={Pastadental} alt="" />
+                    </div> 
+                    <div className='Cardinfo'>
+                        <p>Pasta dental de bicarbonato, Aceite de coco, Sal del himalaya y toques de gotas de menta orgánica</p>
+                </div> 
+
+                <div className='Cardprice'>
+                    <h1>3.990$</h1>
+                    </div>              
+            </div>            
+
+
+        </div>
+
+        
+        
 
 
     </div>

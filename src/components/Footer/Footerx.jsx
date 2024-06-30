@@ -7,10 +7,10 @@ const Footerx = () => {
   return (
     <>
       <footer className="footer">
-            <div className="footer-section">
+            <div id='Contacto' className="footer-section">
                 <h4>Contacto</h4>
-                <p>Dirección: Calle 2 norte, Santiago, Chile</p>
-                <p>Teléfono: +123 456 789</p>
+                <p>Dirección: Siete oriente 2249, Santiago, Chile</p>
+                <p>Teléfono: +569 8400 3044</p>
                 <p>Email: Essenza@gmail.com</p>
                 <p>Horario de Atención: Lun - Sab, 9:00 - 18:00</p>
             </div>
