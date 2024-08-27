@@ -31,6 +31,25 @@ font-family: "Noto Serif Display", serif;
     flex-wrap: wrap;
 }
 
+.Containerhorizontal{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.Cardhorizontal{
+    height: 350px;
+    border: solid 1px gray;
+    width: 380px;
+    border-radius: 10px;
+    margin: 5px 30px;
+   
+}
+
+.liquidosimgjabon{
+    width: 100%;
+    border-radius: 10px;
+}
+
 .Cardproduct{
     height: 420px;
     border: solid 1px gray;
@@ -62,14 +81,27 @@ font-family: "Noto Serif Display", serif;
 
 
 
+
 .Cardimg img{
     width: 100%;   
     border-radius: 10px;
     object-fit: cover;    
 }
 
+.aceiteserum{
+    object-position: center -28px;
+}
+
 .Naranjasoap{
     object-position: center +0px;
+}
+
+.Rositas{
+    object-position: center -55px;
+}
+
+.CABRAX{
+    object-position: center -32px;
 }
 
 /* INFORMACION DE LA CARD */
