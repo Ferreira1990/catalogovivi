@@ -34,20 +34,52 @@ font-family: "Noto Serif Display", serif;
 .Containerhorizontal{
     display: flex;
     justify-content: center;
+    align-items: center;
     flex-wrap: wrap;
 }
+
+.Horizontalimg{
+    display: flex;
+    justify-content: center;
+}
 .Cardhorizontal{
-    height: 350px;
+    height: 100%;
     border: solid 1px gray;
-    width: 380px;
-    border-radius: 10px;
-    margin: 5px 30px;
+    width: 300px;
+    border-radius: 10px;   
    
 }
 
+@media (max-width:350px){
+    .Cardhorizontal{
+        height: 100%;
+        border: solid 1px gray;
+        width: 250px;
+        border-radius: 10px;   
+       
+    }
+}
+
+.Cardinfohorizontal{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.Cardinfohorizontal p{
+    text-align: center;
+    font-size: 15px;  
+    
+}
+
+.Cardinfohorizontal h1{
+    font-size: 22px;
+}
 .liquidosimgjabon{
     width: 100%;
     border-radius: 10px;
+    margin-bottom: 10px;
 }
 
 .Cardproduct{

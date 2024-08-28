@@ -51,7 +51,7 @@ const Productsline = () => {
 
                         <div className='Cardinfo'>
                             <p>Jabón canela 100% natural, hecho a mano.</p>
-                            <h1>4.990$</h1>
+                            <h1>$</h1>
                         </div>
 
                     </div>
@@ -66,7 +66,7 @@ const Productsline = () => {
 
                         <div className='Cardinfo'>
                             <p>Jabón 100% de miel orgánica hecho a mano.</p>
-                            <h1>4.990$</h1>
+                            <h1>$</h1>
                         </div>
 
                     </div>
@@ -82,7 +82,7 @@ const Productsline = () => {
 
                         <div className='Cardinfo'>
                             <p>Jabón de Ruda, emulsiona e hidrata tu piel.</p>
-                            <h1>4.990$</h1>
+                            <h1>$</h1>
                         </div>
 
                     </div>
@@ -97,7 +97,7 @@ const Productsline = () => {
                         </div>
                         <div className='Cardinfo'>
                             <p>Jabón de Canela Naranja 100% natural, hecho a mano.</p>
-                            <h1>4.990$</h1>
+                            <h1>$</h1>
                         </div>
 
                     </div>
@@ -112,7 +112,7 @@ const Productsline = () => {
 
                         <div className='Cardinfo'>
                             <p>Jabón de Leche y Miel orgánica hecho a mano.</p>
-                            <h1>4.990$</h1>
+                            <h1>$</h1>
                         </div>
                     </div>
 
@@ -127,7 +127,7 @@ const Productsline = () => {
 
                         <div className='Cardinfo'>
                             <p>Jabón Capuccino Italiano, hecho a mano.</p>
-                            <h1>4.990$</h1>
+                            <h1>$</h1>
                         </div>
                     </div>
 
@@ -143,7 +143,7 @@ const Productsline = () => {
                         </div>
                         <div className='Cardinfo'>
                             <p>Jabón de Avena y Miel orgánica, hecho a mano.</p>
-                            <h1>4.990$</h1>
+                            <h1>$</h1>
                         </div>
 
                     </div>
@@ -158,7 +158,7 @@ const Productsline = () => {
 
                         <div className='Cardinfo'>
                             <p>Jabón Manzanilla 100% natural, hecho a mano.</p>
-                            <h1>4.990$</h1>
+                            <h1>$</h1>
                         </div>
                     </div>
 
@@ -173,7 +173,7 @@ const Productsline = () => {
 
                         <div className='Cardinfo'>
                             <p>Jabón Lavanda 100% natural, hecho a mano.</p>
-                            <h1>4.990$</h1>
+                            <h1>$</h1>
                         </div>
                     </div>
 
@@ -187,7 +187,7 @@ const Productsline = () => {
                         </div>
                         <div className='Cardinfo'>
                             <p>Jabón Maracuya 100% Natural, Hecho a mano.</p>
-                            <h1>4.990$</h1>
+                            <h1>$</h1>
                         </div>
 
                     </div>
@@ -202,7 +202,7 @@ const Productsline = () => {
 
                         <div className='Cardinfo'>
                             <p>Divertidos Jabones para tu bebe, 100% Naturales.</p>
-                            <h1>4.990$</h1>
+                            <h1>$</h1>
                         </div>
                     </div>
 
@@ -217,7 +217,7 @@ const Productsline = () => {
 
                         <div className='Cardinfo'>
                             <p>Jabón de Uva 100% natural, hecho a mano.</p>
-                            <h1>4.990$</h1>
+                            <h1>$</h1>
                         </div>
                     </div>
 
@@ -231,7 +231,7 @@ const Productsline = () => {
                         </div>
                         <div className='Cardinfo'>
                             <p>Jabón de Rosas 100% Natural, Hecho a mano.</p>
-                            <h1>4.990$</h1>
+                            <h1>$</h1>
                         </div>
 
                     </div>
@@ -246,7 +246,7 @@ const Productsline = () => {
 
                         <div className='Cardinfo'>
                             <p>Jabón de Leche de cabra,miel y manteca 100% Natural, Hecho a mano.</p>
-                            <h1>4.990$</h1>
+                            <h1>$</h1>
                         </div>
                     </div>
 
@@ -261,7 +261,7 @@ const Productsline = () => {
 
                         <div className='Cardinfo'>
                             <p>Jabón Melissa con exfoliante 100% natural, hecho a mano.</p>
-                            <h1>4.990$</h1>
+                            <h1>$</h1>
                         </div>
                     </div>
 
@@ -281,7 +281,7 @@ const Productsline = () => {
                         </div>
                         <div className='Cardinfo'>
                             <p>Sal de baño 100% natural de rosa,lavanda o melisa.</p>
-                            <h1>3.990$</h1>
+                            <h1>$</h1>
                         </div>
 
                     </div>
@@ -294,7 +294,7 @@ const Productsline = () => {
 
                         <div className='Cardinfo'>
                             <p>Paño exfoliantes de cañamo para limpiar el cuerpo.</p>
-                            <h1>1.990$</h1>
+                            <h1>$</h1>
                         </div>
 
 
@@ -311,7 +311,7 @@ const Productsline = () => {
 
                         <div className='Cardinfo'>
                             <p>Desodorante con ingredientes 100% natural</p>
-                            <h1>3.990$</h1>
+                            <h1>$</h1>
                         </div>
 
                     </div>
@@ -327,7 +327,7 @@ const Productsline = () => {
                         </div>
                         <div className='Cardinfo'>
                             <p>Aceite natural para dar fuerza a puntas de cabello.</p>
-                            <h1>3.990$</h1>
+                            <h1>$</h1>
                         </div>
 
                     </div>
@@ -338,7 +338,7 @@ const Productsline = () => {
                         </div>
                         <div className='Cardinfo'>
                             <p>Aceite natural para iluminar puntas de cabello.</p>
-                            <h1>3.990$</h1>
+                            <h1>$</h1>
                         </div>
 
                     </div>
@@ -349,7 +349,7 @@ const Productsline = () => {
                         </div>
                         <div className='Cardinfo'>
                             <p>Balsamo labial de cacao 100% Natural.</p>
-                            <h1>3.990$</h1>
+                            <h1>$</h1>
                         </div>
 
                     </div>
@@ -365,7 +365,7 @@ const Productsline = () => {
                         </div>
                         <div className='Cardinfo'>
                             <p>Crema facial hidratante de Arroz, 100% Natural.</p>
-                            <h1>3.990$</h1>
+                            <h1>$</h1>
                         </div>
 
                     </div>
@@ -376,7 +376,7 @@ const Productsline = () => {
                         </div>
                         <div className='Cardinfo'>
                             <p>Ungüento de Calendula, 100% Natural.</p>
-                            <h1>3.990$</h1>
+                            <h1>$</h1>
                         </div>
 
                     </div>
@@ -387,7 +387,7 @@ const Productsline = () => {
                         </div>
                         <div className='Cardinfo'>
                             <p>Porta jabones para baño cerámica.</p>
-                            <h1>1.990$</h1>
+                            <h1>$</h1>
                         </div>
 
                     </div>
@@ -407,7 +407,7 @@ const Productsline = () => {
                         </div>
                         <div className='Cardinfo'>
                             <p>Pasta dental de bicarbonato, Aceite de coco, Sal de mar y menta.</p>
-                            <h1>3.990$</h1>
+                            <h1>$</h1>
                         </div>
 
                     </div>
@@ -425,7 +425,7 @@ const Productsline = () => {
                         </div>
                         <div className='Cardinfo'>
                             <p>Shampoo 300ml 100% Natural (Manzana,Coco,Melissa,Manzanilla o Romero).</p>
-                            <h1>3.990$ c/u</h1>
+                            <h1>$ c/u</h1>
                         </div>
 
                     </div>
@@ -433,9 +433,9 @@ const Productsline = () => {
 
                     <div className='Cardhorizontal'>
                         <div className='Horizontalimg'><img className='liquidosimgjabon' src={Jabonesliquidos} alt="" /></div>
-                        <div className='Cardinfo'>
-                            <p>Jabón liquido 100% Natural, 400ml. (Limón,Naranja,coco,frutilla,cacao,capuccino).</p>
-                            <h1>3.990$ c/u</h1>
+                        <div className='Cardinfohorizontal'>
+                            <p>Jabón liquido 100% Natural, 400ml. (Limón, Naranja, coco, frutilla, cacao, capuccino).</p>
+                            <h1>$ c/u</h1>
                         </div>
                     </div>
 
@@ -445,7 +445,7 @@ const Productsline = () => {
                         </div>
                         <div className='Cardinfo'>
                             <p>Acondicionador 400ml, 100% Natural. (Frutilla, Melissa o Romero)</p>
-                            <h1>3.990$</h1>
+                            <h1>$ c/u</h1>
                         </div>
 
                     </div>
