@@ -8,12 +8,14 @@ import wspwsp from '../src/assets/wsplogo.webp'
 
 
 function App() {
+
+  const numerowsp = '56984003044'; // Define el número de teléfono en formato internacional
  
 
   return (
     <>
     <div>
-    <a href=""><img className='wsplogobutton' src={wspwsp} alt="" /></a>       
+    <a href={`https://wa.me/${numerowsp}`} target="_blank" rel="noopener noreferrer"><img className='wsplogobutton' src={wspwsp} alt="" /></a>       
     <Nav />
     <Headerx />
     <Productsline />
