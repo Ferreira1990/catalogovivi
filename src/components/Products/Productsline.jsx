@@ -29,6 +29,7 @@ import porta from '../../assets/porta.jpg'
 import ROSA from '../../assets/rosas.jpg'
 import CABRA from '../../assets/lechecabra.jpg'
 import mopa from '../../assets/mopa.jpg'
+import UVAX from '../../assets/uva.jpg'
 
 
 const Productsline = () => {
@@ -210,12 +211,12 @@ const Productsline = () => {
                     <div className='Cardproduct'>
 
                         <div className='Cardimg'>
-                            <img src={nueve} alt="" />
+                            <img src={UVAX} alt="" />
                         </div>
 
 
                         <div className='Cardinfo'>
-                            <p>Jabón Lavanda 100% natural, hecho a mano.</p>
+                            <p>Jabón de Uva 100% natural, hecho a mano.</p>
                             <h1>4.990$</h1>
                         </div>
                     </div>
