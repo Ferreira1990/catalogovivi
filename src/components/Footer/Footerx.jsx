@@ -8,8 +8,7 @@ const Footerx = () => {
     <>
       <footer className="footer">
             <div id='Contacto' className="footer-section">
-                <h4>Contacto</h4>
-                <p>Dirección: Siete oriente 2249, Santiago, Chile</p>
+                <h4>Contacto</h4>  
                 <p>Teléfono: +569 8400 3044</p>
                 <p>Email: viviartchile@gmail.com</p>
                 <p>Horario de Atención: Lun - Sab, 9:00 - 18:00</p>
